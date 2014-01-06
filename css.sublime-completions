@@ -10,6 +10,7 @@
     { "trigger": "align-self", "contents": "align-self: " },
     { "trigger": "animation", "contents": "animation: " },
     { "trigger": "appearance", "contents": "appearance: " },
+    { "trigger": ":after", "contents": ":after" },
 
     { "trigger": "backface-visibility", "contents": "backface-visibility: " },
     { "trigger": "background", "contents": "background: " },
@@ -20,6 +21,7 @@
     { "trigger": "bottom", "contents": "bottom: " },
     { "trigger": "box-shadow", "contents": "box-shadow: " },
     { "trigger": "box-sizing", "contents": "box-sizing: " },
+    { "trigger": ":before", "contents": ":before" },
 
     { "trigger": "clear", "contents": "clear: " },
     { "trigger": "clip", "contents": "clip: " },
