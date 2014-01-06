@@ -1,0 +1,124 @@
+{
+  "scope": [
+    "text.css - source - meta.tag, punctuation.definition.tag.begin",
+    "text.scss - source - meta.tag, punctuation.definition.tag.begin"
+  ],
+
+  "completions": [
+    { "trigger": "align-content", "contents": "align-content: " },
+    { "trigger": "align-items", "contents": "align-items: " },
+    { "trigger": "align-self", "contents": "align-self: " },
+    { "trigger": "animation", "contents": "animation: " },
+    { "trigger": "appearance", "contents": "appearance: " },
+
+    { "trigger": "backface-visibility", "contents": "backface-visibility: " },
+    { "trigger": "background", "contents": "background: " },
+    { "trigger": "border", "contents": "border: " },
+    { "trigger": "border-collapse", "contents": "border-collapse: " },
+    { "trigger": "border-image", "contents": "border-image: " },
+    { "trigger": "border-radius", "contents": "border-radius: " },
+    { "trigger": "bottom", "contents": "bottom: " },
+    { "trigger": "box-shadow", "contents": "box-shadow: " },
+    { "trigger": "box-sizing", "contents": "box-sizing: " },
+
+    { "trigger": "clear", "contents": "clear: " },
+    { "trigger": "clip", "contents": "clip: " },
+    { "trigger": "color", "contents": "color: " },
+    { "trigger": "column-count", "contents": "column-count: " },
+    { "trigger": "content", "contents": "content: " },
+    { "trigger": "counter-increment", "contents": "counter-increment: " },
+    { "trigger": "counter-reset", "contents": "counter-reset: " },
+    { "trigger": "cursor", "contents": "cursor: " },
+
+    { "trigger": "direction", "contents": "direction: " },
+    { "trigger": "display", "contents": "display: " },
+
+    { "trigger": "flex", "contents": "flex: " },
+    { "trigger": "flex-basis", "contents": "flex-basis: " },
+    { "trigger": "flex-direction", "contents": "flex-direction: " },
+    { "trigger": "flex-flow", "contents": "flex-flow: " },
+    { "trigger": "flex-grow", "contents": "flex-grow: " },
+    { "trigger": "flex-shrink", "contents": "flex-shrink: " },
+    { "trigger": "flex-wrap", "contents": "flex-wrap: " },
+    { "trigger": "float", "contents": "float: " },
+    { "trigger": "font", "contents": "font: " },
+    { "trigger": "font-family", "contents": "font-family: " },
+    { "trigger": "font-size", "contents": "font-size: " },
+    { "trigger": "font-stretch", "contents": "font-stretch: " },
+    { "trigger": "font-style", "contents": "font-style: " },
+    { "trigger": "font-variant", "contents": "font-variant: " },
+    { "trigger": "font-weight", "contents": "font-weight: " },
+
+    { "trigger": "grid", "contents": "grid: " },
+
+    { "trigger": "hanging-punctuation", "contents": "hanging-punctuation: " },
+    { "trigger": "height", "contents": "height: " },
+    { "trigger": "hyphens", "contents": "hyphens: " },
+
+    { "trigger": "justify-content", "contents": "justify-content: " },
+
+    { "trigger": "left", "contents": "left: " },
+    { "trigger": "letter-spacing", "contents": "letter-spacing: " },
+    { "trigger": "line-height", "contents": "line-height: " },
+    { "trigger": "list-style", "contents": "list-style: " },
+
+    { "trigger": "margin", "contents": "margin: " },
+    { "trigger": "max-height", "contents": "max-height: " },
+    { "trigger": "max-width", "contents": "max-width: " },
+    { "trigger": "min-height", "contents": "min-height: " },
+    { "trigger": "min-width", "contents": "min-width: " },
+
+    { "trigger": "opacity", "contents": "opacity: " },
+    { "trigger": "order", "contents": "order: " },
+    { "trigger": "orphans", "contents": "orphans: " },
+    { "trigger": "outline", "contents": "outline: " },
+    { "trigger": "overflow", "contents": "overflow: " },
+
+    { "trigger": "padding", "contents": "padding: " },
+    { "trigger": "page-break", "contents": "page-break: " },
+    { "trigger": "perspective", "contents": "perspective: " },
+    { "trigger": "perspective-origin", "contents": "perspective-origin: " },
+    { "trigger": "pointer-events", "contents": "pointer-events: " },
+    { "trigger": "position", "contents": "position: " },
+
+    { "trigger": "quotes", "contents": "quotes: " },
+
+    { "trigger": "resize", "contents": "resize: " },
+    { "trigger": "right", "contents": "right: " },
+
+    { "trigger": "scrollbar", "contents": "scrollbar: " },
+
+    { "trigger": "tab-size", "contents": "tab-size: " },
+    { "trigger": "text-align", "contents": "text-align: " },
+    { "trigger": "text-decoration", "contents": "text-decoration: " },
+    { "trigger": "text-indent", "contents": "text-indent: " },
+    { "trigger": "text-overflow", "contents": "text-overflow: " },
+    { "trigger": "text-shadow", "contents": "text-shadow: " },
+    { "trigger": "text-stroke", "contents": "text-stroke: " },
+    { "trigger": "text-transform", "contents": "text-transform: " },
+    { "trigger": "top", "contents": "top: " },
+    { "trigger": "transform", "contents": "transform: " },
+    { "trigger": "transform-origin", "contents": "transform-origin: " },
+    { "trigger": "transform-style", "contents": "transform-style: " },
+    { "trigger": "transition", "contents": "transition: " },
+    { "trigger": "transition-delay", "contents": "transition-delay: " },
+    { "trigger": "transition-duration", "contents": "transition-duration: " },
+    { "trigger": "transition-property", "contents": "transition-property: " },
+    { "trigger": "transition-timing-function", "contents": "transition-timing-function: " },
+
+    { "trigger": "unicode-bidi", "contents": "unicode-bidi: " },
+    { "trigger": "user-select", "contents": "user-select: " },
+
+    { "trigger": "vertical-align", "contents": "vertical-align: " },
+    { "trigger": "visibility", "contents": "visibility: " },
+
+    { "trigger": "white-space", "contents": "white-space: " },
+    { "trigger": "widows", "contents": "widows: " },
+    { "trigger": "width", "contents": "width: " },
+    { "trigger": "word-break", "contents": "word-break: " },
+    { "trigger": "word-spacing", "contents": "word-spacing: " },
+
+    { "trigger": "z-index", "contents": "z-index: " },
+    { "trigger": "zoom", "contents": "zoom: " }
+  ]
+}
