@@ -3,7 +3,7 @@ A more complete library of CSS autocompletion for Sublime Text. Instructions for
 
 1. Put `css.sublime-completions` anywhere in your Sublime Text Packages folder (look for “Browse Packages...” in ST preferences)
 2. Restart Sublime Text
-3. [Party!](https://dl.dropboxusercontent.com/u/40044953/gifs/winner.gif)
+3. [Party!](http://gif.daneden.me/winner.gif)
 4. Contribute to this list so that everyone can get better CSS completion.
 
 ## Stuff I’m aware of
