@@ -13,6 +13,7 @@
 
     { "trigger": "backface-visibility", "contents": "backface-visibility: " },
     { "trigger": "background", "contents": "background: " },
+    { "trigger": "background-color", "contents": "background-color: " },
     { "trigger": "border", "contents": "border: " },
     { "trigger": "border-collapse", "contents": "border-collapse: " },
     { "trigger": "border-image", "contents": "border-image: " },
