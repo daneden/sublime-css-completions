@@ -13,6 +13,7 @@
 
     { "trigger": "backface-visibility", "contents": "backface-visibility: " },
     { "trigger": "background", "contents": "background: " },
+    { "trigger": "background-attachment", "contents": "background-attachment: " },
     { "trigger": "border", "contents": "border: " },
     { "trigger": "border-collapse", "contents": "border-collapse: " },
     { "trigger": "border-image", "contents": "border-image: " },
@@ -23,6 +24,7 @@
 
     { "trigger": "clear", "contents": "clear: " },
     { "trigger": "clip", "contents": "clip: " },
+    { "trigger": "clip-path", "contents": "clip-path: " },
     { "trigger": "color", "contents": "color: " },
     { "trigger": "column-count", "contents": "column-count: " },
     { "trigger": "content", "contents": "content: " },
@@ -63,6 +65,14 @@
     { "trigger": "list-style", "contents": "list-style: " },
 
     { "trigger": "margin", "contents": "margin: " },
+    { "trigger": "mask", "contents": "mask: " },
+    { "trigger": "mask-border", "contents": "mask-border: " },
+    { "trigger": "mask-clip", "contents": "mask-clip: " },
+    { "trigger": "mask-image", "contents": "mask-image: " },
+    { "trigger": "mask-position", "contents": "mask-position: " },
+    { "trigger": "mask-repeat", "contents": "mask-repeat: " },
+    { "trigger": "mask-origin", "contents": "mask-origin: " },
+    { "trigger": "mask-size", "contents": "mask-size: " },
     { "trigger": "max-height", "contents": "max-height: " },
     { "trigger": "max-width", "contents": "max-width: " },
     { "trigger": "min-height", "contents": "min-height: " },
